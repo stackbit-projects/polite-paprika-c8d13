@@ -8,6 +8,11 @@ sections:
       - label: Sign Up
         url: /features
         style: primary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        type: action
     align: left
     image: images/gordon-norman.jpg
     image_position: right
