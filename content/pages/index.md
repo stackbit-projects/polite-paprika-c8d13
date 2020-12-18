@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Get better at Age of Empires
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Get coaching on your game recordings by high ELO players.
     actions:
       - label: Learn More
         url: /features
