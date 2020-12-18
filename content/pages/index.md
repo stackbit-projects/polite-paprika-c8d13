@@ -11,7 +11,7 @@ sections:
     align: left
     image: images/gordon-norman.jpg
     image_position: right
-    has_background: false
+    has_background: true
     background:
       background_color: blue
       background_image: images/diagonal-lines.svg
