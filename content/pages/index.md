@@ -8,9 +8,6 @@ sections:
       - label: Sign Up
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/hero.svg
     image_position: right
