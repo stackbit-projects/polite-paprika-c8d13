@@ -10,7 +10,7 @@ sections:
         style: primary
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: link
+        style: secondary
         new_window: false
         type: action
     align: left
