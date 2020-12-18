@@ -10,7 +10,7 @@ sections:
         style: primary
     align: left
     image: images/gordon-norman.jpg
-    image_position: left
+    image_position: right
     has_background: true
     background:
       background_color: blue
