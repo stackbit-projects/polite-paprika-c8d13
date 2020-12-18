@@ -5,7 +5,7 @@ sections:
     title: Get better at Age of Empires
     subtitle: Get coaching on your game recordings by high ELO players.
     actions:
-      - label: Learn More
+      - label: Sign Up
         url: /features
         style: primary
       - label: Contact Us
